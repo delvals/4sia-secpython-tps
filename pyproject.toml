@@ -18,6 +18,7 @@ pygal = "^3.0.5"
 fpdf2 = "^2.8.1"
 pytest = "^8.3.5"
 capstone = "^5.0.6"
+python-dotenv = "^1.2.1"
 
 [build-system]
 requires = ["poetry-core"]
